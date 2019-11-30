@@ -98,4 +98,4 @@ Since the chicken service does a charity service for the community, it needs to 
 
 ## Open questions
 
-1. What kind of chain IDs exist and can be used for the claim string?
+1. What kind of chain IDs exist in Substrate that can be used for the claim string?
